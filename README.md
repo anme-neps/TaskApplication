@@ -53,3 +53,11 @@ dotnet ef database update
 ```bash
 dotnet run
 ```
+
+## Login Details
+- **Admin Login**
+  - Email: admin@example.com
+  - Password: admin
+- **User Login**
+  - Email: user@example.com
+  - Password: user
