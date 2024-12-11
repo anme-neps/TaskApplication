@@ -1,7 +1,7 @@
 # Task Management API
 
 ## Overview
-The **Task Management API** is a .NET Core 6 application for managing tasks and users. It supports CRUD operations for tasks and users, role-based access control (RBAC), and is protected using Bearer token authentication.
+The **Task Management API** is a .NET Core 8 application for managing tasks and users. It supports CRUD operations for tasks and users, role-based access control (RBAC), and is protected using Bearer token authentication.
 
 ---
 
