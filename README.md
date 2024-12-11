@@ -42,11 +42,14 @@ git clone https://github.com/your-repository-url.git
 cd TaskManagementAPI
 ```
 ### 2. Build the project
-- dotnet build
-
+```bash
+ dotnet build
+```
 ### 3. Update Migration
--dotnet ef database update
-
+```bash
+dotnet ef database update
+```
 ### 4. Run Project
--dotnet run
-
+```bash
+dotnet run
+```
